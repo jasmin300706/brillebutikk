@@ -1,0 +1,55 @@
+body { 
+    font-family: Arial, sans-serif; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: url("vedlegg/bakgrunn.png");
+    background-size: cover;
+    background-position: center;
+}
+
+#butikk {
+    background: rgba(255, 255, 255, 0.594);
+    padding: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+form { 
+    display: flex;
+    flex-direction: column;
+}
+        
+label, input, select { 
+    margin-bottom: 20px;
+}
+
+#listeBriller {
+    display: flex;
+    margin-top: 20px;
+}
+
+#brille_boks {
+    background-color: rgba(255, 202, 202, 0.393);
+    padding: 10px;
+    border-radius: 8px;
+    width: 150px;
+    text-align: center;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+
+#brille_boks img {
+    width: 75px;
+    height: 75px;
+    object-fit: cover;
+    border-radius: 4px;
+}
+
+#kvittering {
+    margin-top: 30px;
+    background-color: #e6ffe6;
+    border: 2px solid #00aa00;
+    border-radius: 8px;
+    font-size: 16px;
+}
