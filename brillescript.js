@@ -3,22 +3,22 @@ var produkter=[
     {
         navn:"Trendy og glamorøse solbriller",
         pris:299,
-        bilde:"vedlegg/trendy_briller.jpg"
+        bilde:"trendy_briller.jpg"
     },
     {
         navn:"Robuste briller som tåler alt",
         pris:600,
-        bilde:"vedlegg/robuste_briller.jpg"
+        bilde:"robuste_briller.jpg"
     },
     {
         navn:"Stilige og avslappende solbriller",
         pris:450,
-        bilde:"vedlegg/stilige_briller.jpg"
+        bilde:"stilige_briller.jpg"
     },
     {
         navn:"Elegante og vakre lesebriller",
         pris:1049,
-        bilde:"vedlegg/elegante_briller.jpg"
+        bilde:"elegante_briller.jpg"
     }
 ];
 
